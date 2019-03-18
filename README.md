@@ -3,6 +3,8 @@ Pig game with two dice. Beautiful Interface and allows players set the desired w
 
 RULES OF THE GAME :
 
+Desired WINNING SCORE can be set by the players to fit their needs and desired duration of the game.
+
 This game can be played by 2 people, one after the other.
 
 
