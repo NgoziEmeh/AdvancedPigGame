@@ -36,3 +36,4 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 
 
 // DOM Manipulation for Add Score botton
+document.querySelector('.btn-hold').addEventListener('click', function(){
