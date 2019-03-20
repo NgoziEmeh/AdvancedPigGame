@@ -73,4 +73,6 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
       document.querySelector('#name-' + activePlayer).textContent = 'Winner!!';
       document.getElementById('dice1').style.display = 'none';
       document.getElementById('dice2').style.display = 'none';
+      
+      document.querySelector('.player-' + activePlayer + '-panel').classList.add('winner');
     
