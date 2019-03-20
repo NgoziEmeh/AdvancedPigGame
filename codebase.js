@@ -22,7 +22,7 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   
   //3. Show dice values as scores in Current score area
   if(dice1 !== 1 & dice2 !== 1){
-    //Add to currentscore
+    //Add to current score
     roundScore += dice1 + dice2;
     document.querySelector('#current-' + activePlayer).textContent = roundScore;
   }else {  
@@ -33,3 +33,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
  }
   
 });  
+
+
+// DOM Manipulation for Add Score botton
