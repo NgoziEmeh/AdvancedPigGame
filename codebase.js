@@ -23,3 +23,4 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   //3. Show dice values as scores in Current score area
   if(dice1 !== 1 & dice2 !== 1){
     //Add to currentscore
+    roundScore += dice1 + dice2;
