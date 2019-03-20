@@ -94,3 +94,4 @@ document.querySelector('.btn-new').addEventListener('click', function(){
   
 function init (){
   scores = [0,0];
+  roundScore = 0;
