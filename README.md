@@ -22,4 +22,6 @@ If current player keeps playing without adding his/her current score to main sco
 
 And it becomes the next player's turn to play.
 
+The first player to reach the inputed winning score wins the game.
+
 
