@@ -88,3 +88,4 @@ PLAYERS
 .active .player-name { font-weight: 300; }
 
 .active .player-name::after {
+  content: "\2022";
