@@ -63,4 +63,6 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
    // All falsy values are coersed to false while truthy values is coersed to true
     if (input){
       winningScore = input;
+      
+    }else{  
     
