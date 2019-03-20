@@ -98,3 +98,4 @@ function init (){
   activePlayer = 0;
   
   document.getElementById("dice1").style.display = 'none';
+  document.getElementById("dice2").style.display = 'none';
