@@ -89,3 +89,4 @@ document.querySelector('.btn-new').addEventListener('click', function(){
   //Start the game afresh
   init();
     
+});
