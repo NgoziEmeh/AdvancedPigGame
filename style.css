@@ -106,3 +106,4 @@ PLAYERS
  } 
 
 .player-current-label {
+  text-transform: uppercase;
