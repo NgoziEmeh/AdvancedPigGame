@@ -9,3 +9,4 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   var dice1 = Math.floor(Math.random() * 6) + 1;
   var dice2 = Math.floor(Math.random() * 6) + 1;
   console.log(dice1, dice2);
+  var dice = dice1 + dice2
