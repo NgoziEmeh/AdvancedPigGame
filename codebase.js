@@ -78,4 +78,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
       document.querySelector('.player-' + activePlayer + '-panel').classList.remove('active')
       
     }else{  
+      nextPlayer();
     
