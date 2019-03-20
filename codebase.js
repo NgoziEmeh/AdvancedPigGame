@@ -99,3 +99,5 @@ function init (){
   
   document.getElementById("dice1").style.display = 'none';
   document.getElementById("dice2").style.display = 'none';
+  
+  document.getElementById('score-0').textContent = 0;
