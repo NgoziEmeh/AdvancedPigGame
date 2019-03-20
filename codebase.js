@@ -58,3 +58,4 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
     
    //Declare winner if total value is up to winning Score from input box
     var input = document.querySelector(".win-score").value;
+    var winningScore;
