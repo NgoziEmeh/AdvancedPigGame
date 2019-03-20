@@ -26,4 +26,5 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
     roundScore += dice1 + dice2;
     document.querySelector('#current-' + activePlayer).textContent = roundScore;
   }else {  
-     //Give to next player to play
+    //Give to next player to play
+    nextPlayer();
