@@ -41,3 +41,4 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
   document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer] += roundScore;
   
   //Give next player to play
+  function nextPlayer(){
