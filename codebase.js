@@ -65,4 +65,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
       winningScore = input;
       
     }else{  
+      winningScore = 100;
     
