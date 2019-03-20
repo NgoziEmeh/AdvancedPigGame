@@ -15,3 +15,5 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   //2. Diplay the generated number(dice value)
   document.getElementById("dice1").style.display = 'block';
   document.getElementById("dice1").src = 'dice-' + dice1 + '.png';
+  
+  document.getElementById("dice2").style.display = 'block';
