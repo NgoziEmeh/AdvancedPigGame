@@ -24,3 +24,4 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   if(dice1 !== 1 & dice2 !== 1){
     //Add to currentscore
     roundScore += dice1 + dice2;
+    document.querySelector('#current-' + activePlayer).textContent = roundScore;
