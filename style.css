@@ -83,3 +83,5 @@ PLAYERS
   color: darkblue;
   margin-bottom: 130px;
  } 
+
+.active { background-color: #f7f7f7; }
