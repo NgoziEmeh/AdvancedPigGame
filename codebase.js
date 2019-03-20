@@ -70,4 +70,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
     }  
     
     if (scores[activePlayer] >= winningScore){
+      document.querySelector('#name-' + activePlayer).textContent = 'Winner!!';
     
