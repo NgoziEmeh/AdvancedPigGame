@@ -84,5 +84,6 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
     
   });  
   
+// DOM Manipulation for game restart button  
 document.querySelector('.btn-new').addEventListener('click', function(){  
     
