@@ -30,4 +30,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
     nextPlayer();
     
     
-}
+ }
+  
+});  
