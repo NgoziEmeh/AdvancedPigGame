@@ -54,3 +54,6 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
     
     document.getElementById('dice1').style.display = 'none';
     document.getElementById('dice2').style.display = 'none';
+    
+    
+   //Declare winner if total value is up to winning Score from input box
