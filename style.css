@@ -175,3 +175,4 @@ i {
 }  
 
 .winner { background-color: lightblue; }
+.winner .player-name { font-weight: 300; color: darkslateblue; }
