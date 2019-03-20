@@ -24,4 +24,6 @@ And it becomes the next player's turn to play.
 
 The first player to reach the inputed winning score wins the game.
 
+If no winning score was set, the first player to reach a main score of 100 wins.
+
 
