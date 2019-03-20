@@ -90,3 +90,6 @@ document.querySelector('.btn-new').addEventListener('click', function(){
   init();
     
 });
+  
+  
+function init (){
