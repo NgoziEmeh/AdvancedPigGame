@@ -69,3 +69,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
       
     }  
     
+    if (scores[activePlayer] >= winningScore){
+    
