@@ -28,3 +28,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   }else {  
     //Give to next player to play
     nextPlayer();
+    
+    
+}
