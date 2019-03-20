@@ -66,4 +66,6 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
       
     }else{  
       winningScore = 100;
+      
+    }  
     
