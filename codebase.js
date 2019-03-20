@@ -18,3 +18,6 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
   
   document.getElementById("dice2").style.display = 'block';
   document.getElementById("dice2").src = 'dice-' + dice2 + '.png';
+  
+  
+  //3. Show dice values as scores in Current score area
