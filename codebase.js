@@ -38,3 +38,4 @@ document.querySelector('.btn-roll').addEventListener('click', function() {
 // DOM Manipulation for Add Score botton
 document.querySelector('.btn-hold').addEventListener('click', function(){
   //Add current score to main score
+  document.querySelector('#score-' + activePlayer).textContent = scores[activePlayer] += roundScore;
