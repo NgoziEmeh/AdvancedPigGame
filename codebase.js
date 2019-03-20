@@ -43,3 +43,5 @@ document.querySelector('.btn-hold').addEventListener('click', function(){
   //Give next player to play
   function nextPlayer(){
     activePlayer === 0 ? activePlayer = 1 : activePlayer = 0; 
+    
+    roundScore = 0;
